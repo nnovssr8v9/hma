@@ -1,0 +1,32 @@
+{
+  "landscapeImages": {
+    "en": [
+      {
+        "url": "https://proxy-seller.com/?partner=HTIBEVZVLZ06V5",
+        "image": "https://raw.githubusercontent.com/TaHanh/hidemyacc/refs/heads/main/images/banner-proxy-seller.png"
+      },
+      {
+        "url": "http://simplynode.io/?ref=Hidemyacc",
+        "image": "https://raw.githubusercontent.com/TaHanh/hidemyacc/refs/heads/main/images/ads-banner-1.png"
+      }
+      
+    ],
+    "vi": [],
+    "zh": []
+  },
+  "portraitImages": {
+    "en": [
+      {
+        "url": "https://proxy-seller.com/?partner=HTIBEVZVLZ06V5",
+        "image": "https://raw.githubusercontent.com/TaHanh/hidemyacc/refs/heads/main/images/banner-portrait-proxy-seller.png"
+      },
+      {
+        "url": "http://simplynode.io/?ref=Hidemyacc",
+        "image": "https://raw.githubusercontent.com/TaHanh/hidemyacc/refs/heads/main/images/800x70-1.jpg"
+      }
+    ],
+    "vi": [],
+    "zh": []
+  },
+  "proxyProvider": "http://simplynode.io/?ref=Hidemyacc"
+}
