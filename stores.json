@@ -144,14 +144,14 @@
       "isDisplay": false
     },
     {
-      "id": "pingproxy",
+      "id": "pingproxies",
       "discount": 10,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-pingproxy.png",
-      "name": "Ping Proxy",
+      "name": "Ping Proxies",
       "promo": "HIDEMYACC",
       "tags": "Static Resi,Data",
       "color": "#E0DEF4",
-      "url": "http://www.pingproxies.com?aff=39",
+      "url": "http://pingproxies.com/?ref=hidemyacc",
       "isDisplay": true
     },
     {
@@ -456,10 +456,10 @@
       "discount": 15,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-ipcola.png",
       "name": "",
-      "promo": "tutnbymsuohouan",
+      "promo": "",
       "tags": "Rotating Resi",
       "color": "#D9D7F4",
-      "url": "https://www.ipcola.com/",
+      "url": "https://dashboard.ipcola.com/register?referral_code=jmmskoiqsyrubtb",
       "isDisplay": true
     },
     {
