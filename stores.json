@@ -288,7 +288,7 @@
     },
     {
       "id": "youproxy",
-      "discount": 15,
+      "discount": 30,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-youproxy.png",
       "name": "",
       "promo": "HIDEMYACC",
@@ -552,12 +552,12 @@
     },
     {
       "id": "711proxy",
-      "discount": "$3 coupon",
+      "discount": 10,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-711proxy.png",
       "name": "",
-      "promo": "xzK0xjGi, 20% OFF - Dynamic traffic coupon: xzK0xjGi, 20% OFF - Dynamic quantity coupon: T51ODc2b",
+      "promo": "HIDEMA711",
       "tags": "Rotating Resi, Static Resi",
-      "color": "#E7F2F0",
+      "color": "#66A1E9",
       "url": "https://www.711proxy.com/signup?code=352EBD",
       "isDisplay": true
     },
@@ -713,6 +713,17 @@
       "tags": "Static Resi, Data",
       "color": "#EEE3B9",
       "url": "https://shopsocks5.com/register.html?invite_code=44E6SSWG",
+      "isDisplay": true
+    },
+    {
+      "id": "SwiftProxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-swift.png",
+      "name": "",
+      "promo": "HIDEMYACC10",
+      "tags": "Static Resi, Data",
+      "color": "#EFFAFB",
+      "url": "https://www.swiftproxy.net/?code=QTNYKL346",
       "isDisplay": true
     }
 
