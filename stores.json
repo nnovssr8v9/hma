@@ -725,6 +725,28 @@
       "color": "#EFFAFB",
       "url": "https://www.swiftproxy.net/?code=QTNYKL346",
       "isDisplay": true
+    },
+    {
+      "id": "Proxytrail",
+      "discount": 15,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-Proxytrail.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Data",
+      "color": "#F0F5F9",
+      "url": "https://proxytrail.com/ru/",
+      "isDisplay": true
+    },
+    {
+      "id": "ProxyShare",
+      "discount": "",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-ProxyShare.png",
+      "name": "",
+      "promo": "",
+      "tags": "Static Resi, Rotating Resi, Data",
+      "color": "#EFF0FF",
+      "url": "https://www.proxyshare.com/?invitation_code=E1PW44",
+      "isDisplay": true
     }
 
 
