@@ -133,7 +133,7 @@
       "isDisplay": true
     },
     {
-      "id": "PIAS5proxy",
+      "id": "pias5proxy",
       "discount": 10,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-PIAS5proxy.png",
       "name": "",
@@ -716,7 +716,7 @@
       "isDisplay": true
     },
     {
-      "id": "SwiftProxy",
+      "id": "swift-proxy",
       "discount": 10,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-swift.png",
       "name": "",
@@ -727,7 +727,7 @@
       "isDisplay": true
     },
     {
-      "id": "Proxytrail",
+      "id": "proxytrail",
       "discount": 15,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-Proxytrail.png",
       "name": "",
@@ -738,7 +738,7 @@
       "isDisplay": true
     },
     {
-      "id": "ProxyShare",
+      "id": "proxy-share",
       "discount": "",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-ProxyShare.png",
       "name": "",
