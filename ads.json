@@ -7,16 +7,20 @@
   "portraitImages": {
     "en": [
       {
-        "url": "http://simplynode.io/?ref=Hidemyacc",
-        "image": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/banner-portrait-simplynode.png"
-      },
-      {
         "url": "https://proxy-seller.com/?partner=HTIBEVZVLZ06V5",
         "image": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/banner-portrait-proxy-seller.png"
       },
       {
+        "url": "https://www.swiftproxy.net/?code=QTNYKL346",
+        "image": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/banner-portrait-swiftproxy.jpg"
+      },
+      {
         "url": "https://youproxy.io",
         "image": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/banner-portrait-Youproxy.png"
+      },
+      {
+        "url": "http://simplynode.io/?ref=Hidemyacc",
+        "image": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/banner-portrait-simplynode.png"
       }
     ],
     "vi": [],
