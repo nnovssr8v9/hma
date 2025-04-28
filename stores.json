@@ -747,6 +747,50 @@
       "color": "#EFF0FF",
       "url": "https://www.proxyshare.com/?invitation_code=E1PW44",
       "isDisplay": true
+    },
+    {
+      "id": "Proxy302",
+      "discount": "1$ Free Trial",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-Proxy302.png",
+      "name": "",
+      "promo": "397iZX",
+      "tags": "Static Resi, Rotating Resi, Data",
+      "color": "#F2FDD9",
+      "url": "https://share.proxy302.com/397iZX",
+      "isDisplay": true
+    },
+    {
+      "id": "ThorData",
+      "discount": 20,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-ThorData.png",
+      "name": "",
+      "promo": "Thordata20",
+      "tags": "Static Resi, Rotating Resi, Data",
+      "color": "#DFF5EF",
+      "url": "https://dashboard.thordata.com/register?invitation_code=TJLN3E4S",
+      "isDisplay": true
+    },
+    {
+      "id": "Cliproxy",
+      "discount": 20,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-Cliproxy.png",
+      "name": "",
+      "promo": "Contact",
+      "tags": "Static Resi, Rotating Resi, Data",
+      "color": "#E6DFFF",
+      "url": "https://cliproxy.com/?kwd=ty-Hidemyacc",
+      "isDisplay": true
+    },
+    {
+      "id": "ByteProxies",
+      "discount": 20,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-ByteProxies.png",
+      "name": "",
+      "promo": "HIDEMYACC20",
+      "tags": "Static Resi, Rotating Resi, Data, Mobile",
+      "color": "#DFF1FF",
+      "url": "https://byteproxies.io",
+      "isDisplay": true
     }
 
 
