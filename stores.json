@@ -749,7 +749,7 @@
       "isDisplay": true
     },
     {
-      "id": "Proxy302",
+      "id": "proxy302",
       "discount": "1$ Free Trial",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-Proxy302.png",
       "name": "",
@@ -760,7 +760,7 @@
       "isDisplay": true
     },
     {
-      "id": "ThorData",
+      "id": "thor-data",
       "discount": 20,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-ThorData.png",
       "name": "",
@@ -771,7 +771,7 @@
       "isDisplay": true
     },
     {
-      "id": "Cliproxy",
+      "id": "cliproxy",
       "discount": 20,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-Cliproxy.png",
       "name": "",
@@ -782,7 +782,7 @@
       "isDisplay": true
     },
     {
-      "id": "ByteProxies",
+      "id": "byteproxies",
       "discount": 20,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-ByteProxies.png",
       "name": "",
