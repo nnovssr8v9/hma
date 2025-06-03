@@ -1,0 +1,163 @@
+{
+    "active": true,
+    "methods": [
+        {
+            "id": "63f5c562f0a625569419bd31",
+            "name": "APPOTAPAY CC",
+            "code": "AppotaPay_CC",
+            "accountNumber": "",
+            "accountName": "",
+            "type": "CC",
+            "priority": 1,
+            "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEiZMTFFaMCouFTrBgd3hRTEoGKP_COKxVdBTJ9bMO55ezvhNB3UFlowXbctLXuM-A-YRlDoQtw-J1y63aiAEm5T-_YTWqgAHv_cdSQcSOuCNCj1ygjGhJfXTKKb49DiSyvx5vWerQqQmxp3RoVEUC11AMrofhiHfnwjDrOqrXpO7HhF4Usmchf_plmoDw=w200-h181",
+            "isActive": true,
+            "supportCountries": [
+                "US"
+            ],
+            "cryptoWalletAddresses": []
+        },
+        {
+            "name": "Paypal_Month",
+            "code": "Paypal_Month",
+            "accountNumber": "",
+            "accountName": "",
+            "type": "e-wallet",
+            "priority": 4,
+            "logo": "",
+            "isActive": true,
+            "supportCountries": [
+                "US"
+            ],
+            "cryptoWalletAddresses": []
+        },
+        {
+            "id": "6359662c227955043c6cc38b",
+            "name": "MBBANK - Ngan Hang Quan Doi",
+            "code": "MB",
+            "accountNumber": "007001026666",
+            "accountName": "NGUYEN THI THANH THANH",
+            "type": "bank",
+            "priority": 3,
+            "logo": "https://play-lh.googleusercontent.com/rBEfIxFhnCIq9p6eMdw-U1RhD5psINWr0_Rbx3Wvy3HMJpRRsnG6efhug5eyPlJc7u0",
+            "isActive": true,
+            "supportCountries": [
+                "VN"
+            ],
+            "cryptoWalletAddresses": []
+        },
+        {
+            "name": "Cryptomus",
+            "code": "Cryptomus",
+            "accountNumber": "",
+            "accountName": "",
+            "type": "cryptocurrency",
+            "priority": 4,
+            "logo": "https://storage.cryptomus.com/currencies/BTC.svg",
+            "isActive": true,
+            "supportCountries": [
+                "US",
+                "VN"
+            ],
+            "cryptoWalletAddresses": [
+                {
+                    "code": "BTC",
+                    "name": "Bitcoin",
+                    "commission": 7,
+                    "network": "BTC",
+                    "logo": "https://storage.cryptomus.com/currencies/BTC.svg"
+                },
+                {
+                    "code": "BCH",
+                    "name": "Bitcoin Cash",
+                    "commission": 7,
+                    "network": "BCH",
+                    "logo": "https://storage.cryptomus.com/currencies/BCH.svg"
+                },
+                {
+                    "code": "BNB",
+                    "name": "Binance BNB",
+                    "commission": 7,
+                    "network": "BSC",
+                    "logo": "https://storage.cryptomus.com/currencies/BNB.svg"
+                },
+                {
+                    "code": "ETH",
+                    "name": "Ethereum",
+                    "commission": 7,
+                    "network": "ETH",
+                    "logo": "https://storage.cryptomus.com/currencies/ETH.svg"
+                },
+                {
+                    "code": "USDT",
+                    "name": "USDT (BEP20)",
+                    "commission": 7,
+                    "network": "BSC",
+                    "logo": "https://storage.cryptomus.com/currencies/USDT.svg"
+                },
+                {
+                    "code": "USDT",
+                    "name": "USDT (ERC20)",
+                    "commission": 7,
+                    "network": "ETH",
+                    "logo": "https://storage.cryptomus.com/currencies/USDT.svg"
+                },
+                {
+                    "code": "USDT",
+                    "name": "USDT (TRC20)",
+                    "commission": 7,
+                    "network": "TRON",
+                    "logo": "https://storage.cryptomus.com/currencies/USDT.svg"
+                },
+                {
+                    "code": "USDT",
+                    "name": "USDT (TON)",
+                    "commission": 7,
+                    "network": "TON",
+                    "logo": "https://storage.cryptomus.com/currencies/USDT.svg"
+                },
+                {
+                    "code": "SOL",
+                    "name": "SOLANA (SOL)",
+                    "commission": 7,
+                    "network": "SOL",
+                    "logo": "https://storage.cryptomus.com/currencies/SOL.svg"
+                },
+                {
+                    "code": "DASH",
+                    "name": "Dash",
+                    "commission": 7,
+                    "network": "DASH",
+                    "logo": "https://storage.cryptomus.com/currencies/DASH.svg"
+                },
+                {
+                    "code": "LTC",
+                    "name": "Litecoin",
+                    "commission": 7,
+                    "network": "LTC",
+                    "logo": "https://storage.cryptomus.com/currencies/LTC.svg"
+                },
+                {
+                    "code": "DOGE",
+                    "name": "DOGE",
+                    "commission": 7,
+                    "network": "DOGE",
+                    "logo": "https://storage.cryptomus.com/currencies/DOGE.svg"
+                },
+                {
+                    "code": "TRX",
+                    "name": "TRON",
+                    "commission": 7,
+                    "network": "TRON",
+                    "logo": "https://storage.cryptomus.com/currencies/TRX.svg"
+                },
+                {
+                    "code": "TON",
+                    "name": "TON",
+                    "commission": 7,
+                    "network": "TON",
+                    "logo": "https://storage.cryptomus.com/currencies/TON.svg"
+                }
+            ]
+        }
+    ]
+}
