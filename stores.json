@@ -295,7 +295,8 @@
       "tags": "Static Resi,Data,Mobile",
       "color": "rgba(0, 152, 255, 0.1)",
       "url": "https://youproxy.io/en/",
-      "isDisplay": true
+      "isDisplay": true,
+      "priority": 1
     },
     {
       "id": "lightning",
