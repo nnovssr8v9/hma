@@ -1,0 +1,14 @@
+[
+    {
+        "discount": "-10%",
+        "code": "WELCOME10",
+        "package": "All package",
+        "type": "1st buy"
+    },
+    {
+        "discount": "1 day",
+        "code": "",
+        "package": "Free trial Base plan",
+        "type": "1st buy"
+    }
+]
