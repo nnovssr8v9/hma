@@ -41,6 +41,7 @@
             "logo": "https://play-lh.googleusercontent.com/rBEfIxFhnCIq9p6eMdw-U1RhD5psINWr0_Rbx3Wvy3HMJpRRsnG6efhug5eyPlJc7u0",
             "isActive": true,
             "supportCountries": [
+                "US",
                 "VN"
             ],
             "cryptoWalletAddresses": []
