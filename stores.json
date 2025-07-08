@@ -276,7 +276,7 @@
       "isDisplay": true
     },
     {
-      "id": "proxysale",
+      "id": "geonix",
       "discount": "Up to 20%",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-proxy-sale.png",
       "name": "",
@@ -791,6 +791,17 @@
       "tags": "Static Resi, Rotating Resi, Data, Mobile",
       "color": "#DFF1FF",
       "url": "https://byteproxies.io",
+      "isDisplay": true
+    },
+    {
+      "id": "mangoproxy",
+      "discount": 30,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-mango-proxy.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Static Resi",
+      "color": "#FFFCEF",
+      "url": "https://dashboard.mangoproxy.com/signup?ref=HIDEMYACC",
       "isDisplay": true
     }
 
