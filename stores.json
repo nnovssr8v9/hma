@@ -221,15 +221,15 @@
       "isDisplay": true
     },
     {
-    "id": "marsoproxy",
-    "discount": 10,
-    "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-marsoproxy.png",
-    "name": "",
-    "promo": "hidemyacc",
-    "tags": "Static Resi,Rotating Data,Data,Mobile",
-    "color": "#FCDCD2",
-    "url": "https://marsproxies.com/r/HIDEMYACC",
-    "isDisplay": true
+      "id": "marsoproxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-marsoproxy.png",
+      "name": "",
+      "promo": "hidemyacc",
+      "tags": "Static Resi,Rotating Data,Data,Mobile",
+      "color": "#FCDCD2",
+      "url": "https://marsproxies.com/r/HIDEMYACC",
+      "isDisplay": true
     },
     {
       "id": "tabproxy",
@@ -799,7 +799,7 @@
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-mango-proxy.png",
       "name": "",
       "promo": "HIDEMYACC",
-      "tags": "Static Resi",
+      "tags": "Static Resi, Rotating Resi, Data",
       "color": "#FFFCEF",
       "url": "https://dashboard.mangoproxy.com/signup?ref=HIDEMYACC",
       "isDisplay": true
@@ -810,13 +810,11 @@
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-novada.png",
       "name": "",
       "promo": "Hidemyacc",
-      "tags": "Rotating Resi",
+      "tags": "Static Resi, Rotating Resi, Data, Mobile ",
       "color": "#F6EFFF",
       "url": "https://www.novada.com/?hidemyacc",
       "isDisplay": true
     }
-
-
   ],
   "vpn": [
     {
