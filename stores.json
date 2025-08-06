@@ -803,6 +803,17 @@
       "color": "#FFFCEF",
       "url": "https://dashboard.mangoproxy.com/signup?ref=HIDEMYACC",
       "isDisplay": true
+    },
+    {
+      "id": "novada",
+      "discount": "Up to 60%",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-novada.png",
+      "name": "",
+      "promo": "Hidemyacc",
+      "tags": "Rotating Resi",
+      "color": "#F6EFFF",
+      "url": "https://www.novada.com/?hidemyacc",
+      "isDisplay": true
     }
 
 
