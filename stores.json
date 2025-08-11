@@ -814,6 +814,61 @@
       "color": "#F6EFFF",
       "url": "https://www.novada.com/?hidemyacc",
       "isDisplay": true
+    },
+    {
+      "id": "quarkip",
+      "discount": "",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-quarkip.png",
+      "name": "",
+      "promo": "",
+      "tags": "Static Resi, Rotating Resi, Data",
+      "color": "#242D99",
+      "url": "https://www.quarkip.com/?utm_source=Hidemyacc",
+      "isDisplay": true
+    },
+    {
+      "id": "rapidproxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-rapidproxy.png",
+      "name": "",
+      "promo": "HIDEMYACC10",
+      "tags": "Static Resi, Rotating Resi",
+      "color": "#FFE8DE",
+      "url": "https://www.rapidproxy.io/?code=3E94JWLKA",
+      "isDisplay": true
+    },
+    {
+      "id": "momoproxy",
+      "discount": 5,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-momoproxy.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Static Resi, Rotating Resi",
+      "color": "#E9F9FB",
+      "url": "https://momoproxy.com?code=4710w7",
+      "isDisplay": true
+    },
+    {
+      "id": "croxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-croxy.png",
+      "name": "",
+      "promo": "HIDEMYACC10",
+      "tags": "Static Resi, Rotating Resi, Data",
+      "color": "#DFE8FF",
+      "url": "https://croxy.com/register/?invitation_code=28YWT8",
+      "isDisplay": true
+    },
+    {
+      "id": "omegaproxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-omegaproxy.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Rotating Resi",
+      "color": "#EEEDFF",
+      "url": "https://www.omegaproxy.com/?invitation_code=HIDEMYACC",
+      "isDisplay": true
     }
   ],
   "vpn": [
