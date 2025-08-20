@@ -869,6 +869,17 @@
       "color": "#EEEDFF",
       "url": "https://www.omegaproxy.com/?invitation_code=HIDEMYACC",
       "isDisplay": true
+    },
+    {
+      "id": "proxyma",
+      "discount": 30,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-proxyma.png",
+      "name": "",
+      "promo": "HMA30",
+      "tags": "Static Resi, Rotating Resi, Data",
+      "color": "#AED4FF",
+      "url": "https://cabinet.proxyma.io/register?ref=RZeT0QBqpF413A8r",
+      "isDisplay": true
     }
   ],
   "vpn": [
