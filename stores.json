@@ -817,7 +817,7 @@
     },
     {
       "id": "quarkip",
-      "discount": "",
+      "discount": "Up to 13%",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-quarkip.png",
       "name": "",
       "promo": "",
@@ -879,6 +879,28 @@
       "tags": "Static Resi, Rotating Resi, Data",
       "color": "#AED4FF",
       "url": "https://cabinet.proxyma.io/register?ref=RZeT0QBqpF413A8r",
+      "isDisplay": true
+    },
+    {
+      "id": "coronium",
+      "discount": 13,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-coronium.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Rotating Resi, Mobile",
+      "color": "#EBEBEB",
+      "url": "https://dashboard.coronium.io/en/sign-up#f95c2a6f2e8d90937289513c78ab52ab",
+      "isDisplay": true
+    },
+    {
+      "id": "key-proxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-key-proxy.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Mobile",
+      "color": "#B4C5FB",
+      "url": "https://keyproxy.net/auth/referral/61155797",
       "isDisplay": true
     }
   ],
