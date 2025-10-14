@@ -902,6 +902,17 @@
       "color": "#B4C5FB",
       "url": "https://keyproxy.net/auth/referral/61155797",
       "isDisplay": true
+    },
+    {
+      "id": "proxy-wing",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-proxy-wing.png",
+      "name": "",
+      "promo": "HIDEMYACC10",
+      "tags": "Static Resi, Rotating Resi, Data",
+      "color": "#FFE5F3",
+      "url": "https://dashboard.proxywing.com/billing/aff.php?aff=1594",
+      "isDisplay": true
     }
   ],
   "vpn": [
