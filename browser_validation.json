@@ -1,32 +1,24 @@
 {
-    "chrome":
-    {
-        "win":
-        {
-            "144.0.7559.97":
-            {
-                "validation": "d8JhDaoX8b/ShTRrHDjGiWOeFok=",
-                "year": "2026"
-            }
-        },
-        "mac":
-        {
-            "x86":
-            {
-                "144.0.7559.97":
-                {
-                    "validation": "faSnjNH7fC/xdlb/Sn0NGaZBGzA=",
-                    "year": "2026"
-                }
-            },
-            "arm":
-            {
-                "144.0.7559.97":
-                {
-                    "validation": "faSnjNH7fC/xdlb/Sn0NGaZBGzA=",
-                    "year": "2026"
-                }
-            }
+  "chrome": {
+    "win": {
+      "144.0.7559.97": {
+        "validation": "d8JhDaoX8b/ShTRrHDjGiWOeFok=",
+        "year": "2026"
+      }
+    },
+    "mac": {
+      "x86": {
+        "144.0.7559.97": {
+          "validation": "faSnjNH7fC/xdlb/Sn0NGaZBGzA=",
+          "year": "2026"
         }
+      },
+      "arm": {
+        "144.0.7559.97": {
+          "validation": "faSnjNH7fC/xdlb/Sn0NGaZBGzA=",
+          "year": "2026"
+        }
+      }
     }
+  }
 }
