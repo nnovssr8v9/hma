@@ -913,6 +913,17 @@
       "color": "#FFE5F3",
       "url": "https://dashboard.proxywing.com/billing/aff.php?aff=1594",
       "isDisplay": true
+    },
+    {
+      "id": "proxy-shard",
+      "discount": 15,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-proxy-shard.png",
+      "name": "",
+      "promo": "hidemyacc",
+      "tags": "Static Resi, Rotating Resi. Data, Mobile",
+      "color": "#EFF5FF",
+      "url": "https://proxyshard.com?ref=hidemyacc",
+      "isDisplay": true
     }
   ],
   "vpn": [
