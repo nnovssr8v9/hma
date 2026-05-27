@@ -90,10 +90,10 @@
     },
     {
       "id": "proxyempire",
-      "discount": 10,
+      "discount": 30,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-proxyempire.png",
       "name": "",
-      "promo": "Contact",
+      "promo": "hidemyacc30",
       "tags": "Static Resi,Rotating Resi,Data,Mobile",
       "color": "#EAE2FF",
       "url": "https://proxyempire.io/?ref=oty2ogm",
@@ -647,7 +647,7 @@
       "promo": "Hidemyacc",
       "tags": "Static Resi, Rotating Resi, Data, Mobile",
       "color": "#FFE2E0",
-      "url": "https://www.birdproxies.com/partner=hidemyacc",
+      "url": "https://birdproxies.com/@HIDEMYACC",
       "isDisplay": true
     },
     {
@@ -923,6 +923,17 @@
       "tags": "Static Resi, Rotating Resi, Data, Mobile",
       "color": "#E4E7FF",
       "url": "https://proxyshard.com?ref=hidemyacc",
+      "isDisplay": true
+    },
+    {
+      "id": "loki-proxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-loki-proxy.png",
+      "name": "",
+      "promo": "HidemyaccLoki",
+      "tags": "Static Resi, Rotating Resi",
+      "color": "#E9F8F5",
+      "url": "https://www.lokiproxy.com/signup?invite=45C085",
       "isDisplay": true
     }
   ],
