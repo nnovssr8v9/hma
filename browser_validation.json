@@ -36,6 +36,10 @@
       "148.0.7778.179": {
         "validation": "+f/6R40gd6znZQYfwfSnAdnLwLk=",
         "year": "2026"
+      },
+      "148.0.7778.216": {
+        "validation": "4YpIN1Vgvpc4eJThCjeROTf7M+Y=",
+        "year": "2026"
       }
     },
     "mac": {
@@ -73,6 +77,10 @@
       },
       "148.0.7778.179": {
         "validation": "DFscXLDsHH1VQnRCDDL79rC1sbU=",
+        "year": "2026"
+      },
+      "148.0.7778.216": {
+        "validation": "SPDaHcBK423EuNa8fbYWKXaqunw=",
         "year": "2026"
       }
     }
