@@ -56,6 +56,10 @@
       "151.0.7922.109": {
         "validation": "BgjQLVAEO0JXYjadQoBzN8EU63w=",
         "year": "2026"
+      },
+      "151.0.7922.170": {
+        "validation": "UnE0jsLmyOUuqSXxegAkM63DjAc=",
+        "year": "2026"
       }
     },
     "mac": {
@@ -113,6 +117,10 @@
       },
       "151.0.7922.109": {
         "validation": "A1Wn34l+ZZ8LBIiFm+1G0QdoVtc=",
+        "year": "2026"
+      },
+      "151.0.7922.170": {
+        "validation": "ko6WX6RUFF16+y7rLMj9fSJwcBM=",
         "year": "2026"
       }
     }
