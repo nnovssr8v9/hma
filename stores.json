@@ -34,17 +34,6 @@
       "isDisplay": true
     },
     {
-      "id": "netnut",
-      "discount": 20,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-netnut.png",
-      "name": "",
-      "promo": "HIDEMYACC20",
-      "tags": "Static Resi,Rotating Resi,Data,Mobile",
-      "color": "#FFF0D4",
-      "url": "https://netnut.io/?ref=hidemyacc",
-      "isDisplay": true
-    },
-    {
       "id": "okeyproxy",
       "discount": 0,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-okeyproxy.png",
@@ -53,17 +42,6 @@
       "tags": "Static Resi,Rotating Resi,Data",
       "color": "#ECEFFF",
       "url": "https://www.okeyproxy.com?ref=zq6skj",
-      "isDisplay": true
-    },
-    {
-      "id": "922proxy",
-      "discount": 10,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-922.png",
-      "name": "",
-      "promo": "HideMyAcc2023",
-      "tags": "Static Resi",
-      "color": "#FFE9DF",
-      "url": "https://www.922proxy.com/register?inviter_code=HIDEMYACC",
       "isDisplay": true
     },
     {
@@ -78,102 +56,25 @@
       "isDisplay": true
     },
     {
-      "id": "lunaproxy",
-      "discount": 5,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-lunaproxy.png",
-      "name": "",
-      "promo": "HIDEMYACC",
-      "tags": "Static Resi,Rotating Resi,Data",
-      "color": "#DAEAFF",
-      "url": "https://www.lunaproxy.com/register?Invitation_code=HMA6868",
-      "isDisplay": true
-    },
-    {
-      "id": "proxyempire",
-      "discount": 30,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-proxyempire.png",
-      "name": "",
-      "promo": "hidemyacc30",
-      "tags": "Static Resi,Rotating Resi,Data,Mobile",
-      "color": "#EAE2FF",
-      "url": "https://proxyempire.io/?ref=oty2ogm",
-      "isDisplay": true
-    },
-    {
-      "id": "socksescort",
-      "discount": 5,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-socksescort.png",
-      "name": "Socksescort",
-      "promo": "HIDEMYACC",
-      "tags": "Static Resi",
-      "color": "#E2F9DB",
-      "url": "https://socksescort.com/?link=NTEwMDkw",
-      "isDisplay": true
-    },
-    {
-      "id": "tsp",
-      "discount": 20,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-tsp.png",
-      "name": "The Social Proxy",
-      "promo": "See more",
-      "tags": "Mobile",
-      "color": "#E7F1FF",
-      "url": "https://thesocialproxy.com/?ref=support@hidemyacc.com",
-      "isDisplay": true
-    },
-    {
-      "id": "smartproxy",
+      "id": "decodo",
       "discount": 10,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-smartproxy.png",
-      "name": "smartproxy",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-Decodo.png",
+      "name": "Decodo",
       "promo": "HIDEMYACC10",
       "tags": "Static Resi,Static Resi,Data,Mobile",
       "color": "#F9E2E5",
-      "url": "dashboard.smartproxy.com/register?referral_code=d8dd3c13dbbdd9ad507009bb5b99b3aab291f56c",
+      "url": "https://dashboard.decodo.com/?referral_code=d8dd3c13dbbdd9ad507009bb5b99b3aab291f56c",
       "isDisplay": true
     },
     {
-      "id": "pias5proxy",
+      "id": "byteful",
       "discount": 10,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-PIAS5proxy.png",
-      "name": "",
-      "promo": "Hidemyacc1",
-      "tags": "Static Resi",
-      "color": "#DBE6FF",
-      "url": "https://www.piaproxy.com/vn/alliance",
-      "isDisplay": false
-    },
-    {
-      "id": "pingproxies",
-      "discount": 10,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-pingproxy.png",
-      "name": "Ping Proxies",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-byteful.webp",
+      "name": "Byteful",
       "promo": "HIDEMYACC",
       "tags": "Static Resi,Data",
       "color": "#E0DEF4",
-      "url": "http://pingproxies.com/?ref=hidemyacc",
-      "isDisplay": true
-    },
-    {
-      "id": "cherryproxy",
-      "discount": 10,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-cherryproxy.png",
-      "name": "",
-      "promo": "hidemyacc",
-      "tags": "Static Resi,Rotating Resi",
-      "color": "#ECEFFF",
-      "url": "https://center.cherryproxy.com/Login/Register?invite=18873373",
-      "isDisplay": true
-    },
-    {
-      "id": "nimble",
-      "discount": "+ $75",
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-nimble.png",
-      "name": "",
-      "promo": "Contact",
-      "tags": "Static Resi,Rotating Resi,Data,Mobile",
-      "color": "#EAEDFF",
-      "url": "https://tracking.nimbleway.com/SH3J",
+      "url": "http://byteful.com/?ref=hidemyacc",
       "isDisplay": true
     },
     {
@@ -232,17 +133,6 @@
       "isDisplay": true
     },
     {
-      "id": "tabproxy",
-      "discount": "10% traffic",
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-tabproxy.png",
-      "name": "",
-      "promo": "HIDEMYACC",
-      "tags": "Static Resi,Rotating Data",
-      "color": "#FFEEBD",
-      "url": "https://tabproxy.com/?code=ABKV4EOY",
-      "isDisplay": true
-    },
-    {
       "id": "databay",
       "discount": 20,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-databay.png",
@@ -265,14 +155,14 @@
       "isDisplay": true
     },
     {
-      "id": "goproxy",
+      "id": "glorycloud",
       "discount": 10,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-goproxy.png",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-GloryCloud.webp",
       "name": "",
       "promo": "Hidemyacc10",
       "tags": "Static Resi,Rotating Resi,Data",
       "color": "#ebeefb",
-      "url": "https://www.goproxy.com/?ref=jabpxr",
+      "url": "https://www.glorycloud.com/?ref=jabpxr",
       "isDisplay": true
     },
     {
@@ -431,17 +321,6 @@
       "isDisplay": true
     },
     {
-      "id": "leetsox",
-      "discount": 10,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-leetsox.png",
-      "name": "",
-      "promo": "Hidemyacc10",
-      "tags": "Data, Mobile",
-      "color": "#EDF1FF",
-      "url": "https://leetsox.com/?invite_hash=C917f4zAhLcukrr9Kh5YptS5VwTHTB8m",
-      "isDisplay": true
-    },
-    {
       "id": "nodemaven",
       "discount": 30,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-nodemaven.png",
@@ -457,7 +336,7 @@
       "discount": 15,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-ipcola.png",
       "name": "",
-      "promo": "",
+      "promo": "Contact",
       "tags": "Rotating Resi",
       "color": "#D9D7F4",
       "url": "https://dashboard.ipcola.com/register?referral_code=jmmskoiqsyrubtb",
@@ -585,17 +464,6 @@
       "isDisplay": true
     },
     {
-      "id": "iprocket",
-      "discount": 10,
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-iprocket.png",
-      "name": "",
-      "promo": "HIDEMYACC",
-      "tags": "Rotating Resi",
-      "color": "#EDF6FA",
-      "url": "https://iprocket.io/center.html#/Register?viteCode=HIDEMYACC",
-      "isDisplay": true
-    },
-    {
       "id": "altproxy",
       "discount": 10,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-altproxy.png",
@@ -706,17 +574,6 @@
       "isDisplay": true
     },
     {
-      "id": "shopsocks5",
-      "discount": "",
-      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-shop-socks5.png",
-      "name": "",
-      "promo": "Contact",
-      "tags": "Static Resi, Data",
-      "color": "#EEE3B9",
-      "url": "https://shopsocks5.com/register.html?invite_code=44E6SSWG",
-      "isDisplay": true
-    },
-    {
       "id": "swift-proxy",
       "discount": 10,
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-swift.png",
@@ -743,7 +600,7 @@
       "discount": "",
       "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-ProxyShare.png",
       "name": "",
-      "promo": "",
+      "promo": "Contact",
       "tags": "Static Resi, Rotating Resi, Data",
       "color": "#EFF0FF",
       "url": "https://www.proxyshare.com/?invitation_code=E1PW44",
@@ -934,6 +791,28 @@
       "tags": "Static Resi, Rotating Resi",
       "color": "#E9F8F5",
       "url": "https://www.lokiproxy.com/signup?invite=45C085",
+      "isDisplay": true
+    },
+    {
+      "id": "link-static",
+      "discount": 5,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-link-static.png",
+      "name": "",
+      "promo": "LinkStatic456",
+      "tags": "Static Resi, Rotating Resi, Data, Mobile",
+      "color": "#F7F8FF",
+      "url": "https://invite.linkstatic.com/share/hidemyacc01",
+      "isDisplay": true
+    },
+    {
+      "id": "ippeak",
+      "discount": "",
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-ippeak.png",
+      "name": "",
+      "promo": "Contact",
+      "tags": "Static Resi, Rotating Resi",
+      "color": "#F2F0FD",
+      "url": "https://www.ippeak.com/?utm_t=1&utm_i=165",
       "isDisplay": true
     }
   ],
