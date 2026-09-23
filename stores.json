@@ -814,6 +814,64 @@
       "color": "#F2F0FD",
       "url": "https://www.ippeak.com/?utm_t=1&utm_i=165",
       "isDisplay": true
+    },
+    {
+      "id": "niu-proxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-niu-proxy.png",
+      "name": "",
+      "promo": "PAY2",
+      "tags": "Static ISP, Rotating Resi, Mobile, Data",
+      "color": "#F0FAFF",
+      "url": "https://niuproxy.com?sharecode=60978394",
+      "isDisplay": true,
+      "priority": 1
+    },
+    {
+      "id": "okkproxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-okkproxy.png",
+      "name": "",
+      "promo": "PAY2",
+      "tags": "Static ISP, Rotating Resi, Mobile, Data",
+      "color": "#F4F0FF",
+      "url": "https://okkproxy.com?sharecode=61782234",
+      "isDisplay": true,
+      "priority": 1
+    },
+    {
+      "id": "ipcook",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-ipcook.png",
+      "name": "",
+      "promo": "HIDEMYACC10",
+      "tags": "Static Resi, Rotating Resi, Data",
+      "color": "#E9F8F5",
+      "url": "https://www.ipcook.com/?ref=hidemyacc&utm_source=hidemyacc&utm_medium=referral&utm_campaign=partner",
+      "isDisplay": true,
+      "priority": 1
+    },
+    {
+      "id": "proxyempire",
+      "discount": 30,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-proxyempire.png",
+      "name": "",
+      "promo": "hidemyacc30",
+      "tags": "Static Resi, Rotating Resi, Data, Mobile",
+      "color": "#FEF2F5",
+      "url": "https://proxyempire.io/?ref=oty2ogm",
+      "isDisplay": true
+    },
+    {
+      "id": "kindproxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-kindproxy.png",
+      "name": "",
+      "promo": "HIDEMYACC10",
+      "tags": "Static Resi, Rotating Resi",
+      "color": "#EAF0FD",
+      "url": "https://www.kindproxy.com/auth/register?ref=vVniUs4mO5dI",
+      "isDisplay": true
     }
   ],
   "vpn": [
