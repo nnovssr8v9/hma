@@ -68,6 +68,14 @@
       "153.0.8010.48": {
         "validation": "gatHVmB+6BMZgeBsxyVmI0c15LA=",
         "year": "2026"
+      },
+      "153.0.8010.53": {
+        "validation": "Nvr5k+iFMPN1OOuTAQHMfJ+Q6a8=",
+        "year": "2026"
+      },
+      "154.0.8037.58": {
+        "validation": "jsMoVtl9Wkc1Sc1Eg1FlJF86xKY=",
+        "year": "2026"
       }
     },
     "mac": {
@@ -137,6 +145,14 @@
       },
       "153.0.8010.48": {
         "validation": "mD7Ufdne6IuoGgQNUHSvDM8dtic=",
+        "year": "2026"
+      },
+      "153.0.8010.53": {
+        "validation": "5NlNaDKBB93vNb2o5VQTaiuhHAY=",
+        "year": "2026"
+      },
+      "154.0.8037.58": {
+        "validation": "1hsD6hxOHEqHkUK2a0Lfl3x9QTQ=",
         "year": "2026"
       }
     }
