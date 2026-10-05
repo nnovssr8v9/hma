@@ -847,7 +847,7 @@
       "promo": "HIDEMYACC10",
       "tags": "Static Resi, Rotating Resi, Data",
       "color": "#E9F8F5",
-      "url": "https://www.ipcook.com/?ref=hidemyacc&utm_source=hidemyacc&utm_medium=referral&utm_campaign=partner",
+      "url": "https://www.ipcook.com/?ref=hidemyacc",
       "isDisplay": true,
       "priority": 1
     },
@@ -871,6 +871,39 @@
       "tags": "Static Resi, Rotating Resi",
       "color": "#EAF0FD",
       "url": "https://www.kindproxy.com/auth/register?ref=vVniUs4mO5dI",
+      "isDisplay": true
+    },
+    {
+      "id": "thunder-proxy",
+      "discount": 50,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-thunder-proxy.png",
+      "name": "",
+      "promo": "HMA50",
+      "tags": "Static Resi, Rotating Resi, Data, Mobile",
+      "color": "#E6F2FF",
+      "url": "https://thunderproxy.com/?utm_source=hidemyacc&utm_medium=partner&utm_campaign=hidemyacc_partnership&utm_content=referral_link",
+      "isDisplay": true
+    },
+    {
+      "id": "rich-proxies",
+      "discount": 35,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-rich-proxies.png",
+      "name": "",
+      "promo": "HIDEMYAC35",
+      "tags": "Static Resi, Rotating Resi, Mobile",
+      "color": "#FCF9EF",
+      "url": "https://richproxies.com/?from=hidemy",
+      "isDisplay": true
+    },
+    {
+      "id": "proxmint",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/nnovssr8v9/hma/refs/heads/main/images/logo-proxmint.png",
+      "name": "",
+      "promo": "HIDEMYACC10",
+      "tags": "Static Resi, Rotating Resi, Mobile, Data",
+      "color": "#E7F6EF",
+      "url": "https://proxmint.com/signup?ref=YWSDTMCV",
       "isDisplay": true
     }
   ],
