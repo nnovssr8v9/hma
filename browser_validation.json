@@ -76,6 +76,10 @@
       "154.0.8037.58": {
         "validation": "jsMoVtl9Wkc1Sc1Eg1FlJF86xKY=",
         "year": "2026"
+      },
+      "154.0.8037.98": {
+        "validation": "W75EAQzpKofotw/EkbmfW9qmCRo=",
+        "year": "2026"
       }
     },
     "mac": {
@@ -153,6 +157,10 @@
       },
       "154.0.8037.58": {
         "validation": "1hsD6hxOHEqHkUK2a0Lfl3x9QTQ=",
+        "year": "2026"
+      },
+      "154.0.8037.98": {
+        "validation": "tpBllyXzCUJIItbiIO0h75y/ZDs=",
         "year": "2026"
       }
     }
