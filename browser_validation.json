@@ -84,6 +84,10 @@
       "155.0.8059.40": {
         "validation": "0559nr5uGKWlIwYFRL6023LQGT0=",
         "year": "2026"
+      },
+      "155.0.8059.85": {
+        "validation": "6q7HZiKEhnYpLUmbisJzG0KzioE=",
+        "year": "2026"
       }
     },
     "mac": {
@@ -169,6 +173,10 @@
       },
       "155.0.8059.40": {
         "validation": "2Lq+kxDl7/W15Yzqq+wyA8ICgo4=",
+        "year": "2026"
+      },
+      "155.0.8059.85": {
+        "validation": "eHEhJRDRehyPLwKtc5EyWWP3xEA=",
         "year": "2026"
       }
     }
