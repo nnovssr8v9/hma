@@ -92,6 +92,10 @@
       "156.0.8078.73": {
         "validation": "aKxBjaKO1XfiVkm7TQYpMl/T/cU=",
         "year": "2026"
+      },
+      "156.0.8078.74": {
+        "validation": "rOajNjfwi3oE/fgT/UhGGlC+5dw=",
+        "year": "2026"
       }
     },
     "mac": {
@@ -185,6 +189,10 @@
       },
       "156.0.8078.48": {
         "validation": "V0oo59jyw0lIB7s9UUiyvuYgxzc=",
+        "year": "2026"
+      },
+      "156.0.8078.74": {
+        "validation": "Y8Wsa5MV/buYVCXyPOhEIxw5PH4=",
         "year": "2026"
       }
     }
